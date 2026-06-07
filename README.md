@@ -35,6 +35,9 @@ streamlit run app.py
 Project Objective
 
 To create a safe digital space where users can express thoughts, reflect on emotions, monitor mood patterns, and receive supportive AI-powered assistance.
+########DEMO VIDEO
+*********click link to see demo of SAFESPACE AI
+https://drive.google.com/file/d/1iAatAbfeXa0woJYvTpOYRgTJmDsnVwEJ/view?usp=sharing
 
 Future Enhancements
 
